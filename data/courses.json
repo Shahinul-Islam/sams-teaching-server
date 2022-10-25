@@ -1,0 +1,66 @@
+[
+    {
+      "id": "01",
+      "picture": "http://placehold.it/32x32",
+      "title": "The Complete Graphic Design Theory for Beginner",
+      "category": "Design",
+      "description": "Even if you’re a complete beginner, this course will show",
+      "price": 30,
+      "ratings": 3,
+      "author": "Marjorie Roth"
+    },
+    {
+      "id": "02",
+      "picture": "http://placehold.it/32x32",
+      "title": "User Experience Design Fundamentals",
+      "category": "Design",
+      "description": "Even if you’re a complete beginner, this course will show",
+      "price": 63,
+      "ratings": 4,
+      "author": "Whitfield Carr"
+    },
+    {
+      "id": "03",
+      "picture": "http://placehold.it/32x32",
+      "title": "Graphic Design Bootcamp: Photoshop, Illustrator",
+      "category": "Design",
+      "description": 125,
+      "price": 3,
+      "ratings": 30,
+      "author": "Beatriz Middleton",
+      "time": 40
+    },
+    {
+      "id": "04",
+      "picture": "http://placehold.it/32x32",
+      "title": 21,
+      "category": 13,
+      "description": 83,
+      "price": 2,
+      "ratings": 35,
+      "author": "Valeria Solis",
+      "time": 39
+    },
+    {
+      "id": "05",
+      "picture": "http://placehold.it/32x32",
+      "title": 25,
+      "category": 14,
+      "description": 116,
+      "price": 4,
+      "ratings": 21,
+      "author": "Florine Duran",
+      "time": 29
+    },
+    {
+      "id": "06",
+      "picture": "http://placehold.it/32x32",
+      "title": 20,
+      "category": 15,
+      "description": 110,
+      "price": 3,
+      "ratings": 26,
+      "author": "Sherman Pacheco",
+      "time": 21
+    }
+  ]

@@ -3,59 +3,35 @@
       "id": "01",
       "picture": "https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373_960_720.jpg",
       "title": "The Complete Web Developer Course 2.0",
-      "category": "web development",
-      "description": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
-      "price": 30,
-      "ratings": 3,
-      "instructor": "Marjorie Roth"
+      "category": "web development"
     },
     {
       "id": "02",
       "picture": "https://cdn.pixabay.com/photo/2013/07/12/16/35/php-151199_960_720.png",
       "title": "The Complete 2021 PHP Full Stack Web Developer Bootcamp",
-      "category": "PHP",
-      "description": "Learn to build websites with HTML , CSS , JAVASCRIPT , Bootstrap , PHP , MySQL , WordPress , OOP & more!",
-      "price": 63,
-      "ratings": 4,
-      "instructor": "Whitfield Carr"
+      "category": "PHP"
     },
     {
       "id": "03",
       "picture": "https://cdn.pixabay.com/photo/2015/01/04/17/30/wordpress-588495__340.jpg",
       "title": "Create a Wordpress Blog Website: Wordpress Blog Step-by-Step",
-      "category": "Wordpress",
-      "description": "Wordpress Blog: Create a Wordpress blog website in this Wordpress blog step-by-step guide",
-      "price": 50,
-      "ratings": 4,
-      "instructor": "Beatriz Middleton"
+      "category": "Wordpress"
     },
     {
       "id": "04",
       "picture": "https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536__340.jpg",
       "title": "Modern React with Redux",
-      "category": "Framework",
-      "description": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
-      "price": 29,
-      "ratings": 5,
-      "instructor": "Valeria Solis"
+      "category": "Framework"
     },
     {
       "id": "05",
       "picture": "https://cdn.pixabay.com/photo/2016/07/24/16/19/binary-1538721__340.jpg",
       "title": "Server Side Rendering with React and Redux",
-      "category": "Backend",
-      "description": "Build React, Redux, and React Router apps using Server Side Rendering (SSR), Isomorphic, and Universal JS techniques",
-      "price": 49,
-      "ratings": 4,
-      "instructor": "Florine Duran"
+      "category": "Backend"
     },
     {
       "id": "06",
       "picture": "https://cdn.pixabay.com/photo/2022/07/08/05/38/freelance-work-7308505_960_720.png",
       "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
-      "category": "MERN",
-      "description": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated.",
-      "price": 38,
-      "ratings": 4,
-      "instructor": "Sherman Pacheco"}
+      "category": "MERN"}
   ]
